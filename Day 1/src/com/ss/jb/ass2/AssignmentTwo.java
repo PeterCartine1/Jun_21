@@ -2,6 +2,10 @@ package com.ss.jb.ass2;
 
 import java.util.Scanner;
 
+/*
+ * This is a class for Java Day 1 Training Assignment 2
+ */
+
 public class AssignmentTwo {
 	public static void main(String[] args) {
 		// Generates a random number
