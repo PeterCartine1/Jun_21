@@ -1,4 +1,4 @@
-package com.ss.jb.ass2;
+package com.ss.d1.ass2;
 
 import java.util.Scanner;
 

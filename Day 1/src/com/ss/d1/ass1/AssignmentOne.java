@@ -1,5 +1,4 @@
-package com.ss.jb.ass1;
-
+package com.ss.d1.ass1;
 /*
  * This is a class for Java Day 1 Training Assignment 1
  */
